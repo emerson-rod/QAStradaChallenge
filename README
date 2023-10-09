@@ -1,0 +1,23 @@
+Projeto de testes automatizados para o desafio da empresa Strada
+
+IDE utilizada Intellij Communit
+
+
+Ferramentas:
+Java
+JDK 1.8.0_151
+Maven
+Cucumber
+JUnit
+Restassured
+
+
+Para e execução do projeto sincronizer o arquivo pom.xml para instalar as dependecias;
+O projeto foi estruturado para utilizar cenários com Gherkin
+
+
+Steps
+Features
+
+Test
+    Runner  responsavél pela execução de todos os cenários
